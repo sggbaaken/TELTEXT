@@ -18,3 +18,15 @@ target/
 
 # VS Code
 .vscode/
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Maven / Java
+target/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
